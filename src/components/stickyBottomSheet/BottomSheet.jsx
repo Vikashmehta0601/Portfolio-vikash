@@ -84,9 +84,9 @@ const BottomSheetMobile = ({
                   />
                 </h3>
                 <PhotoProvider>
-                  <PhotoView src={IMAGES.resume1}>
+                  <PhotoView src={IMAGES.resume}>
                     <img
-                      src={IMAGES.resume1}
+                      src={IMAGES.resume}
                       alt="Example"
                       className={'animation_on_image'}
                       style={{
@@ -99,7 +99,7 @@ const BottomSheetMobile = ({
                       }}
                     />
                   </PhotoView>
-                  <PhotoView src={IMAGES.resume2}>
+                  {/* <PhotoView src={IMAGES.resume2}>
                     <img
                       src={IMAGES.resume2}
                       alt="Example"
@@ -113,7 +113,7 @@ const BottomSheetMobile = ({
                         boxShadow: "0px 0px 3px 3px #00000047",
                       }}
                     />
-                  </PhotoView>
+                  </PhotoView> */}
                 </PhotoProvider>
               </>
             )}

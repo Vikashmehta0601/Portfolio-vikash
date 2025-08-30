@@ -9,6 +9,8 @@ const IMAGES = {
     flowerIcon:"/images/flowerIcon.png",
     hopImage:"/images/hop.png",
     trpImage:"/images/trp.png",
+    tjcImage:"/images/tjc-uk.png",
+    shopLC:"images/shopLC.jpg",
     gradiuntforProject:"/images/Gradientforprojects.png",
     achievement:"/images/achiement.jpeg",
     resume:"/images/resume.png",

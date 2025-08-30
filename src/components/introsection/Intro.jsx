@@ -28,7 +28,7 @@ const Intro = ({joyClass}) => {
             <span>
               <img src={IMAGES.technologo} alt="company logo" />
             </span>{" "}
-            TechnoSoftwares,
+            VGL Group,
           </h6>
           <h6>
             A self-taught Frontend Developer with 3+ years of experience
